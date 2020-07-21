@@ -1,8 +1,8 @@
-//更新日2020/03/31
+//更新日2020/07/21
 001	2020-01-01flatdata1.gpf
 002	2020-01-01flatdata2.gpf
 003	2020-01-01flatdata3.gpf
 004	2020-01-01flatdata4.gpf
 005	2020-01-01flatdata5.gpf
-006	2020-03-31flatdata6.gpf
+006	2020-07-21flatdata6.gpf
 007	2020-01-01data.gpf
